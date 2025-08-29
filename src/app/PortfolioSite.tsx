@@ -68,40 +68,25 @@ const PROJECTS = [
       "Full‑stack app with React.js, Flask, and MySQL. Teachers manage assignments; students submit and access lectures.",
     tags: ["React", "Flask", "MySQL", "Full‑stack"],
     href: "#projects",
-    repo: "https://github.com/",
+    repo: "https://github.com/alisiddiqi/Learning-Management-System",
   },
+
   {
-    title: "Hacker Tracker (Capstone)",
-    blurb:
-      "Cybersecurity platform with honeypots on Azure/DNS servers for real‑time threat detection and visualization.",
-    tags: ["Azure", "Cybersecurity", "DNS", "Cloud"],
-    href: "#projects",
-    repo: "https://github.com/",
-  },
-  {
-    title: "GitHub Insights Dashboard",
+    title: "GitHub Insights Dashboard - Under Construction",
     blurb:
       "Analytics dashboard using GitHub GraphQL API with OAuth, caching, and interactive charts.",
     tags: ["Next.js", "TypeScript", "GraphQL", "Visx"],
     href: "#projects",
-    repo: "https://github.com/",
+    repo: "https://github.com/alisiddiqi/github-dashboard",
   },
   {
-    title: "Accessible UI Library",
+    title: "Rental Management System",
     blurb:
-      "Reusable, accessible React components with WAI‑ARIA compliance and Storybook docs.",
+      "Reusable, accessible React components with WAI-ARIA compliance and Storybook docs.",
     tags: ["React", "TypeScript", "Storybook"],
     href: "#projects",
     repo: "https://github.com/",
-  },
-  {
-    title: "Habit Tracker PWA",
-    blurb:
-      "Offline‑first PWA for building habits, with streaks, analytics, and sync.",
-    tags: ["React", "PWA", "Workbox"],
-    href: "#projects",
-    repo: "https://github.com/",
-  },
+  }
 ];
 
 const EXPERIENCE = [
@@ -513,5 +498,5 @@ export default function PortfolioSite() {
         </div>
       </footer>
     </div>
-  );
+  );~
 }
