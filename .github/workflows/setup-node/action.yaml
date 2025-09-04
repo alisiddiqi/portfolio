@@ -1,4 +1,3 @@
-
 name: setup-node
 description: "Setup Node.js ⚙️ - Cache dependencies ⚡ - Install dependencies 🔧"
 runs:
