@@ -42,7 +42,7 @@ const PROFILE = {
     "Software Engineering graduate with experience across frontend, backend, and AI. Skilled at building responsive apps, optimizing systems, and collaborating across diverse teams.",
   email: "ali.siddiqi110@gmail.com",
   phone: "+1 (403) 470-2634",
-  github: "https://github.com/ali-siddiqi",
+  github: "https://github.com/alisiddiqi",
   linkedin: "https://linkedin.com/in/ali-siddiqi",
   resumeUrl: "/Ali_Siddiqi_Resume.pdf",
 };
