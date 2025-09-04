@@ -274,7 +274,7 @@ const Hero = () => (
           </CardHeader>
           <CardContent>
             <div className="space-y-2">
-              <div className="font-medium">GitHub Insights Dashboard</div>
+            <div className="font-medium">GitHub Insights Dashboard</div>
               <p className="text-sm text-muted-foreground">
                 GraphQL‑powered analytics, OAuth, and cached API routes with accessible charts.
               </p>
