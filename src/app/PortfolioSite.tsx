@@ -270,7 +270,7 @@ const Hero = () => (
             <CardTitle className="flex items-center gap-2">
               <Star className="h-5 w-5" /> Featured Project
             </CardTitle>
-            <CardDescription>Recent work I'm proud of</CardDescription>
+            <CardDescription>Recent work I m proud of</CardDescription>
           </CardHeader>
           <CardContent>
             <div className="space-y-2">
