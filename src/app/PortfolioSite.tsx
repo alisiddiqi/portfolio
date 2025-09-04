@@ -241,7 +241,7 @@ const Hero = () => (
           </a>
           <a href={PROFILE.resumeUrl}>
             <Button variant="secondary">
-              <Download className="mr-2 h-4 w-4" />Resume
+              <Download className="mr-2 h-4 w-4" />Resume 
             </Button>
           </a>
           <a href={PROFILE.github} target="_blank" rel="noreferrer">
@@ -270,7 +270,7 @@ const Hero = () => (
             <CardTitle className="flex items-center gap-2">
               <Star className="h-5 w-5" /> Featured Project
             </CardTitle>
-            <CardDescription>Recent work I’m proud of</CardDescription>
+            <CardDescription>Recent work I'm proud of</CardDescription>
           </CardHeader>
           <CardContent>
             <div className="space-y-2">
